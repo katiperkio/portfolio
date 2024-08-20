@@ -26,3 +26,5 @@
     Kati Perkiö
   </p>
 </footer>
+<?php
+?>
