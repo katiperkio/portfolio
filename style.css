@@ -76,7 +76,7 @@ a:visited {
 }
 
 .bg-container {
-    background-image: url('./pine.svg');
+    background-image: url('./images/pine.svg');
     opacity: 8%;
     background-size: 100%;
     background-repeat: no-repeat;
