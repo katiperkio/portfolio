@@ -1,17 +1,14 @@
 <div id="aboutme">
   <h2>About Me</h2>
-  <p>
-    Hi! My name is Kati Perkiö and I am here to tap into my creative side
-    via the vast world of web design. I am currently based in Vantaa,
-    Finland.
-  </p>
-  <p>
-    I have been studying full-stack development in Business College
-    Helsinki since August 2023. <br />
-    This portfolio was initially made by me as a part of the studies, but
-    I ended up loving it so much that I decided to keep it as is for what
-    is to come.
-  </p>
+  <div class="subcontent">
+    <img class='contentimg' src='https://images.unsplash.com/photo-1602924097911-a78ca1af38c6?q=80&w=2033&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='cat'></img>
+    <p>
+      Welcome to my portfolio! <br>
+      <br>
+      I am Kati, a 28-year-old Full Stack Web Developer based in Vantaa, Finland<br>
+      and studying at Business College Helsinki since spring of 2024
+    </p>
+  </div>
 </div>
 <?php
 ?>
